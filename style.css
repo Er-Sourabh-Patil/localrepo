@@ -4,3 +4,6 @@ p {
 h1 {
     columns: green;
 }
+h3 {
+    color: blue; #change in feature 1
+}
